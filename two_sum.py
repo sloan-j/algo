@@ -21,7 +21,7 @@ class Solution():
 				return [ans[target - elem], i]
 			ans[elem] = i
 
-		println("error: no answer")
+		print("error: no answer")
 
 
 # test
